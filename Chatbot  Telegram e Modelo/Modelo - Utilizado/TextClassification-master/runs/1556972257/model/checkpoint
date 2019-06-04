@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/fei/POOL - CLSTM/FOLDER/CLSTM/TextClassification-master/runs/1556972257/model/clf-4000"
+all_model_checkpoint_paths: "/home/fei/POOL - CLSTM/FOLDER/CLSTM/TextClassification-master/runs/1556972257/model/clf-1000"
+all_model_checkpoint_paths: "/home/fei/POOL - CLSTM/FOLDER/CLSTM/TextClassification-master/runs/1556972257/model/clf-2000"
+all_model_checkpoint_paths: "/home/fei/POOL - CLSTM/FOLDER/CLSTM/TextClassification-master/runs/1556972257/model/clf-3000"
+all_model_checkpoint_paths: "/home/fei/POOL - CLSTM/FOLDER/CLSTM/TextClassification-master/runs/1556972257/model/clf-4000"
